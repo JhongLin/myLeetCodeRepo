@@ -3,8 +3,9 @@
 Currently using C and JAVA to solve the daily challenge, and learning Go for future.
 ### Continuing Update 
  * Now status:
- * Easy: 19 (67.6% Acceptance)
- * Medium: 49 (57.6% Acceptance)
- * Hard: 24 (49.2% Acceptance)
-
+ * Total Acceptance Rate: 58.6%
+ * Easy: 22 (71.1% Acceptance)
+ * Medium: 63 (60.0% Acceptance)
+ * Hard: 29 (49.4% Acceptance)
+(Update in 08/24)
 ![Git](./fig/leetcodestatus.png)
