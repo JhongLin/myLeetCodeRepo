@@ -56,7 +56,7 @@ func (h myHeap) Swap(i, j int){
     h[i], h[j] = h[j], h[i]
 }
 func (h myHeap) Less(i, j int) bool{
-    return h[i] < h[j]
+    return h[i] < h[j] //min Heap
 }
 func (h *myHeap) Push(x interface{}){
     *h = append(*h, x.(int))
